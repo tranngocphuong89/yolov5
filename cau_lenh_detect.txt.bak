@@ -1,1 +1,5 @@
-python detect.py --source \\192.168.6.124\thuannd\VMS_HOABINH\VMS_BASE1\backupHB\NS1066-3\2022-10-19 17-00-36 135Gian may(H1).mp4
+python detect.py --classes 0 --view-img --vid-stride 30 --source Z:\2_dataset_vms\2_thuy_dien_Hoa_Binh\2022-10-19_09-00-04_Trim_2.mp4
+
+--source 
+\\192.168.6.124\thuannd\VMS_HOABINH\VMS_BASE1\backupHB\NS1066-3\2022-10-19 17-00-36 135Gian may(H1).mp4
+Z:\2_dataset_vms\2_thuy_dien_Hoa_Binh\2022-10-20 16-00-09 196PTZ OPY_Trim_5.mp4
